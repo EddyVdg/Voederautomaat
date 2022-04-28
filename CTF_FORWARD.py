@@ -27,13 +27,6 @@ GPIO.output(DIR, CCW)
 step_count = SPR #SPR
 delay = .005  # 1 seconde / SPR  0.0005
 
-#for x in range(step_count):
-#  GPIO.output(STEP, GPIO.HIGH)
-#  sleep(delay)
-#    GPIO.output(STEP,GPIO.LOW)
-#    sleep(delay)
-    
-
 sleep(0.5)
 GPIO.output(SLEEP, GPIO.HIGH)
 GPIO.output(DIR, CCW)
@@ -42,17 +35,6 @@ for x in range(step_count):
     sleep(delay)
     GPIO.output(STEP,GPIO.LOW)
     sleep(delay)
-   
-sleep(0.5)
-GPIO.output(SLEEP, GPIO.HIGH)
-GPIO.output(DIR, CCW)
-for x in range(step_count):
-    GPIO.output(STEP, GPIO.HIGH)
-    sleep(delay)
-    GPIO.output(STEP,GPIO.LOW)
-    sleep(delay)
-    
-
 
 GPIO.output(SLEEP, GPIO.LOW)
 GPIO.cleanup()

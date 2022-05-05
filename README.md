@@ -17,7 +17,7 @@ De reservoir kan alle soorten droge voeding bevatten en kan een inhoud van 1.5 l
 
 # Software
 
-Programma CTF_DELTAFORWARD.py gemaakt met "Thonny Python IDE"
+Het programma CTF_DELTAFORWARD.py is gemaakt met "Thonny Python IDE"
 
 
 

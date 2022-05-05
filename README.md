@@ -15,3 +15,9 @@ De reservoir kan alle soorten droge voeding bevatten en kan een inhoud van 1.5 l
 - Adapter 12V 2.5A (motor)
 - Adapter 5v 3A (raspberry)
 
+# Software
+
+Programma CTF_DELTAFORWARD.py gemaakt met "Thonny Python IDE"
+
+
+

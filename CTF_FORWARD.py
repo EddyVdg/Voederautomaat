@@ -10,9 +10,8 @@ CW = 1    #CW rotation
 CCW = 0     #CCW rotation
 SPR = 5000 #steps per reolution (360/step_angle=200  360/1.8=200)
 a = 1.8 #Stepangle of Nema 17 HS4401
-RPM = 20  #GEWENSTE SNELHEID RPM/MIN
 STAF= (a/360)*60*SPR #STepAngleFrequentie = (a°/360°)*60sec 
-fz = int(RPM/STAF) * SPR
+
 
 print(STAF ,SPR)
 GPIO.setwarnings(False)

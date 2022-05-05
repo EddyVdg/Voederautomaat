@@ -9,7 +9,8 @@ De reservoir kan alle soorten droge voeding bevatten en kan een inhoud van 1.5 l
 # Hardware
 
 - Raspberry pi4 4GB
-- Nema steppermotor HS4401
+- SD-card 32Gb
+- Nema17 steppermotor HS4401
 - DRV8825
 - Adapter 12V 2.5A (motor)
 - Adapter 5v 3A (raspberry)

@@ -5,7 +5,7 @@ Met een netwerkverbinding controleer je de voederautomaat.
 Met de camera kan je zien of er al dan niet moet bijgevoederd worden.
 Een ideale 'smart home' oplossing voor iedereen die overdag uit gaat werken of op reis is.
 Vooraf bepaal je met welke hoeveelheid je uw huisdier wil voederen.  
-De reservoir kan enkel droge voeding in korrel vorm bevatten en heeft een inhoud van 1.5 liter.
+De reservoir kan enkel droge voeding in korrelvorm bevatten en heeft een inhoud van 1.5 liter.
 
 # Hardware
 
